@@ -4,8 +4,8 @@ This analysis shows the geocoding of Zenith Bank branches in Lagos State, Nigeri
 
 ### Methodologies
 1. Data Loading and Preparation.
-2. Data Geocoding (Google API key).
-3. Data Visualization (Leaflet and Mapview packages).
+2. Data Geocoding using Google API key.
+3. Data Visualization with Leaflet and Mapview packages.
 
 ### Conclusion
 By geocoding Zenith Bank branches in Lagos State, Nigeria, this analysis reveals their spatial distribution and can therefore enhance business strategies, branch optimization, and customer accessibility.
